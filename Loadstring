@@ -1,1 +1,5 @@
+-- this loadstring autoupdates
+-- dont skidd my work
+-- bye enjoy using untitled hub reborn
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/CutesyKitten/Untitled-Hub-Reborn/main/Untitled%20Hub%20Reborn"))();
